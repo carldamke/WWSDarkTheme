@@ -1,2 +1,12 @@
 # WWSDarkTheme
-A dark theme in form of usercss for the platform my school uses.
+A [UserCSS](https://github.com/openstyles/stylus/wiki/UserCSS) compatible userstyle manager is required, those are recommended:
+
+Stylus for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/).
+
+------
+
+[Click here to install](https://raw.githubusercontent.com/carldamke/WWSDarkTheme/master/schulportal-erz-pb-dark.user.css) the stylesheet.
+
+------
+
+## Have fun!
