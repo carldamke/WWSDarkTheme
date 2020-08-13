@@ -5,6 +5,10 @@ Stylus for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [
 
 Cascadea for [Safari](https://cascadea.app/)
 
+The stylesheet will be updated automaticaly by the addon.
+#
+
 [Click here to install](https://raw.githubusercontent.com/carldamke/WWSDarkTheme/master/schulportal-erz-pb-dark.user.css) the stylesheet.
+#
 
 ## Have fun!
