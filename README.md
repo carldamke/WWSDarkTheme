@@ -10,7 +10,7 @@ The stylesheet will be updated automaticaly by the addon.
 
 [Click here to install](https://raw.githubusercontent.com/carldamke/WWSDarkTheme/master/schulportal-erz-pb-dark.user.css) the stylesheet.
 
-<img align="center" src="https://raw.githubusercontent.com/carldamke/WWSDarkTheme/master/img/screenshot.JPG" height="160" title="Click to enlarge"></img>
+<img align="center" src="https://raw.githubusercontent.com/carldamke/WWSDarkTheme/master/img/screenshot.JPG" height="320" title="Click to enlarge"></img>
 #
 
 ## Have fun!
