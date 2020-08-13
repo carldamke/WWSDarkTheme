@@ -3,10 +3,8 @@ A [UserCSS](https://github.com/openstyles/stylus/wiki/UserCSS) compatible userst
 
 Stylus for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/).
 
-------
+Cascadea for [Safari](https://cascadea.app/)
 
 [Click here to install](https://raw.githubusercontent.com/carldamke/WWSDarkTheme/master/schulportal-erz-pb-dark.user.css) the stylesheet.
-
-------
 
 ## Have fun!
