@@ -1625,6 +1625,7 @@
     }
     body.wysiwyg {
         padding: 1px 2px;
+        color: #333;
     }
     input.max,
     textarea.max,
