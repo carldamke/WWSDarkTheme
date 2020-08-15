@@ -4994,7 +4994,7 @@ height: 16px;
         margin-top: 0;
     }
     .entry_outer {
-        background: #fff;
+        background: #282828;
         padding: 10px 5px 10px 10px;
     }
     .entry_outer.entry_message {
@@ -5005,7 +5005,7 @@ height: 16px;
         border: 1px solid #fff;
     }
     .entry_inner {
-        background: #fff;
+        background: #383838;
     }
     .entry_message .entry_inner {
         background: url(../pics/option/p_systemnachricht.svg) no-repeat;
@@ -5966,7 +5966,7 @@ height: 16px;
         width: auto;
         padding: 7px 10px 0 10px;
         box-sizing: border-box;
-        color: #181818;
+        color: #fff;
         background-repeat: repeat-x;
         text-transform: uppercase;
     }
