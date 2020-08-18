@@ -4994,18 +4994,18 @@ height: 16px;
         margin-top: 0;
     }
     .entry_outer {
-        background: #282828;
+        background: #484848;
         padding: 10px 5px 10px 10px;
     }
     .entry_outer.entry_message {
         background: #eaeef0;
     }
     .panel.entry_message {
-        background: #f0f3f4;
+        background: #383838;
         border: 1px solid #fff;
     }
     .entry_inner {
-        background: #383838;
+        background: #484848;
     }
     .entry_message .entry_inner {
         background: url(../pics/option/p_systemnachricht.svg) no-repeat;
